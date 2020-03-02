@@ -7,5 +7,8 @@
 * [Attributes for classifier feedback](https://www.cc.gatech.edu/~parikh/Publications/ParkashParikh_ECCV_2012_attributes_feedback.pdf) <details> <summary> Details </summary> Authors propose a better way of active learning where the annotator first looks at the prediction of the classifier on the provided example. If the prediction is incorrect, the annotator provides the correct label. Annotator also provides high-level reasons behind why the predicted label is wrong. Thus feedback from annotator is of two kinds: 1. Label-based feedback. 2. Annotator based feedback </details>
 * [Informed Machine Learning – Towards a Taxonomy of Explicit Integration of Knowledge into Machine Learning](https://arxiv.org/pdf/1903.12394.pdf)
 * [Learning from Rules Generalizing Labeled Exemplars](https://openreview.net/forum?id=SkeuexBtDr)
+* [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
+* [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) -- ICLR2020
+* Contrastive Learning of Structured World Models -- ICLR2020
 
 # Software links
