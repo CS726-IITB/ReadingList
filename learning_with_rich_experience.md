@@ -10,5 +10,6 @@
 * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
 * [Variational Template Machine for Data-to-Text Generation](https://openreview.net/forum?id=HkejNgBtPB) -- ICLR2020
 * Contrastive Learning of Structured World Models -- ICLR2020
+* [Learning by abstraction: The neural state machine](https://arxiv.org/pdf/1907.03950.pdf) -- NeurIPS2019
 
 # Software links
